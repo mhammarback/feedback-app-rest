@@ -1,0 +1,10 @@
+{
+  "id": "feedback-app-rest",
+  "version": "0.0.1",
+  "name": "feedback-app-rest",
+  "author": "Moa Hammarbäck",
+  "description": "A RestApp for feedback app",
+  "helpUrl": "https://developer.sitevision.se/restapps",
+  "type": "RESTApp",
+  "bundled": true
+}
